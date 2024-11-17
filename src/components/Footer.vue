@@ -1,5 +1,5 @@
 <template>
-    <footer>
+    <footer class="footer">
       <p>&copy; 2024 Aurapolis. All rights reserved.</p>
     </footer>
   </template>
@@ -10,12 +10,5 @@
   };
   </script>
   
-  <style scoped>
-  footer {
-    background-color: #1a1a1a;
-    color: white;
-    text-align: center;
-    padding: 10px;
-  }
-  </style>
+
   

@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <header class="header">
       <h1>Aurapolis</h1>
     </header>
   </template>
@@ -9,13 +9,3 @@
     name: "Header",
   };
   </script>
-  
-  <style scoped>
-  header {
-    background-color: #4caf50;
-    color: white;
-    padding: 20px;
-    text-align: center;
-  }
-  </style>
-  
